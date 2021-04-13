@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeekshaM08
+- 👋 Hi, I’m @Deeksha Malik
 - 👀 I’m interested in contributing to real world issues with knowledge of Data Science.
 - 🌱 I’m currently learning all the different tools & techniques to be a Data Scientist
 - 📫 You can reach me out on my LI profile : https://www.linkedin.com/in/deeksha-malik or email me at deeksha_malik@ymail.com
